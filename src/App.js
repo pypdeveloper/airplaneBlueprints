@@ -1,8 +1,6 @@
 import React, {PureComponent} from 'react';
 import './App.css';
 
-
-
 function App() {
   return (
       <div >
@@ -115,21 +113,6 @@ function App() {
     </div>
     </div>
     </div>
-    <footer>
-      <div>
-      <p>Airbus A320 image taken from: https://ja.m.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Airbus_A320neo_landing_01_crop.jpg</p>
-      <p>Boeing 737 image taken from: https://pixabay.com/photos/flight-aircraft-boeing-737-4635500/</p>
-      <p>Airbus A330 image taken from: https://www.wallpaperflare.com/swiss-airline-about-to-take-off-airbus-a330-swiss-airlines-wallpaper-zepvm</p>
-      <p>Boeing 767 image taken from: https://pixabay.com/photos/united-airlines-boeing-767-take-off-4798787/</p>
-      <p>Airbus A350 image taken from: https://commons.wikimedia.org/wiki/File:Cathay_Pacific_Airbus_A350-900_B-LRJ_(39342897822).jpg</p>
-      <p>Boeing 787 image taken from: https://www.pikist.com/free-photo-sydfx</p>
-      <p>Airbus a300 image taken from: https://commons.wikimedia.org/wiki/File:Airbus_A300_DHL_(32944070741).jpg</p>
-      <p>Airbus a380 image taken from: https://www.flickr.com/photos/volvob12b/42946453761</p>
-      <p>Boeing 747 image taken from: https://commons.wikimedia.org/wiki/File:Thai_Airways_International_Boeing_747-4D7_HS-TGP_MUC_2015_03.jpg</p>
-      <p>Boeing 727 image taken from: https://www.flickr.com/photos/33465428@N02/4406863537</p>
-      <p>Airbus A340-500 image taken from: https://www.airlines-inform.com/commercial-aircraft/airbus-a340-500.html </p>
-      </div>
-    </footer>
     </div>
   );
 }
